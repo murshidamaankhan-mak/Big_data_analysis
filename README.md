@@ -4,6 +4,7 @@
 *DOMAIN*:DATA ANALYTICS
 *DURATION*:4 WEEKS
 *MENTOR*:NEELA SANTOSH KUMAR
+
 📌 Introduction and Project Background
 Welcome to the official GitHub repository for my big data analytics project, developed as a core task during my professional internship at CodTech. In today's highly digitized and data-driven world, the ability to rapidly process, manage, and analyze massive datasets is a critical competency for any modern enterprise. This project was specifically designed to demonstrate the immense power, flexibility, and scalability of distributed computing using Apache Spark's Python API, PySpark. By undertaking this task, my primary objective was to move beyond traditional, single-node data processing tools and fully embrace the distributed architecture required to handle enterprise-level data volumes efficiently and reliably.
 
