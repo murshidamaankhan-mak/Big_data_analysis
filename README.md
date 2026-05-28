@@ -72,6 +72,7 @@ Execution: Launch the Jupyter interface by typing jupyter notebook in your termi
 
 <img width="2500" height="1462" alt="Image" src="https://github.com/user-attachments/assets/e54ffce9-48f1-40ae-9419-9c2861b2cfde" />
 
+
 # PREDICTIVE ANALYSIS USING MACHINE LEARNING
 # Real Estate Price Prediction: California Housing Market 🏡
 
