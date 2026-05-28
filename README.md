@@ -109,4 +109,4 @@ The project follows a structured machine learning pipeline:
 2. Ensure you have Python installed along with the required libraries (`pip install pandas numpy scikit-learn matplotlib seaborn`).
 3. Open the `.ipynb` file using Jupyter Notebook or upload it to Google Colab.
 4. Run the cells sequentially to observe the feature selection, model training, and final output visualizations.
-
+<img width="1024" height="512" alt="Image" src="https://github.com/user-attachments/assets/e5ee5d45-80b1-430c-8c2a-882da36b8761" />
