@@ -74,7 +74,7 @@ Execution: Launch the Jupyter interface by typing jupyter notebook in your termi
 
 
 # PREDICTIVE ANALYSIS USING MACHINE LEARNING
-#Real Estate Price Prediction: California Housing Market 🏡
+Real Estate Price Prediction: California Housing Market 🏡
 
 ## 📌 Project Overview
 This project is a predictive analytics machine learning model designed to estimate housing prices based on geographic and economic data. It was developed as part of an internship task for **CodTech IT Solutions** to demonstrate proficiency in feature selection, regression modeling, and data visualization.
