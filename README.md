@@ -71,6 +71,7 @@ Java Requirement: Because Apache Spark runs on the JVM, it strictly requires Jav
 Execution: Launch the Jupyter interface by typing jupyter notebook in your terminal. Navigate to the project's main .ipynb file, open it, and run the cells sequentially from top to bottom to witness the distributed data processing pipeline in action.
 
 <img width="2500" height="1462" alt="Image" src="https://github.com/user-attachments/assets/e54ffce9-48f1-40ae-9419-9c2861b2cfde" />
+
 # PREDICTIVE ANALYSIS USING MACHINE LEARNING
 # Real Estate Price Prediction: California Housing Market 🏡
 
