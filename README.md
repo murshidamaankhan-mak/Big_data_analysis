@@ -9,7 +9,7 @@
 *DURATION*:4 WEEKS
 
 *MENTOR*:NEELA SANTOSH KUMAR
-# BIG DATA ANALYSIS(TASK 1)
+# BIG DATA ANALYSIS (TASK 1)
 📌 Introduction and Project Background
 
 Welcome to the official GitHub repository for my big data analytics project, developed as a core task during my professional internship at CodTech. In today's highly digitized and data-driven world, the ability to rapidly process, manage, and analyze massive datasets is a critical competency for any modern enterprise. This project was specifically designed to demonstrate the immense power, flexibility, and scalability of distributed computing using Apache Spark's Python API, PySpark. By undertaking this task, my primary objective was to move beyond traditional, single-node data processing tools and fully embrace the distributed architecture required to handle enterprise-level data volumes efficiently and reliably.
@@ -73,7 +73,7 @@ Execution: Launch the Jupyter interface by typing jupyter notebook in your termi
 <img width="2500" height="1462" alt="Image" src="https://github.com/user-attachments/assets/e54ffce9-48f1-40ae-9419-9c2861b2cfde" />
 
 
-# PREDICTIVE ANALYSIS USING MACHINE LEARNING(TASK 2)
+# PREDICTIVE ANALYSIS USING MACHINE LEARNING (TASK 2)
 Real Estate Price Prediction: California Housing Market 🏡
 
 ## 📌 Project Overview
