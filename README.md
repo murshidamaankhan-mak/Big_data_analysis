@@ -71,3 +71,40 @@ Java Requirement: Because Apache Spark runs on the JVM, it strictly requires Jav
 Execution: Launch the Jupyter interface by typing jupyter notebook in your terminal. Navigate to the project's main .ipynb file, open it, and run the cells sequentially from top to bottom to witness the distributed data processing pipeline in action.
 
 <img width="2500" height="1462" alt="Image" src="https://github.com/user-attachments/assets/e54ffce9-48f1-40ae-9419-9c2861b2cfde" />
+# PREDICTIVE ANALYSIS USING MACHINE LEARNING
+# Real Estate Price Prediction: California Housing Market 🏡
+
+## 📌 Project Overview
+This project is a predictive analytics machine learning model designed to estimate housing prices based on geographic and economic data. It was developed as part of an internship task for **CodTech IT Solutions** to demonstrate proficiency in feature selection, regression modeling, and data visualization.
+
+The project leverages the **California Housing Dataset** to predict continuous target values (median house values) using a Random Forest Regressor.
+
+## 🛠️ Technologies & Libraries Used
+* **Language:** Python
+* **Environment:** Google Colab / Jupyter Notebook
+* **Libraries:** * `pandas` & `numpy` (Data manipulation)
+  * `scikit-learn` (Machine Learning, Feature Selection, Evaluation)
+  * `matplotlib` & `seaborn` (Data Visualization)
+
+## 📊 Methodology
+The project follows a structured machine learning pipeline:
+
+1. **Data Ingestion:** Loaded the built-in California Housing dataset via `sklearn.datasets`.
+2. **Dimensionality Reduction (Feature Selection):** * Processed 8 continuous features.
+   * Utilized `SelectKBest` with an `f_regression` scoring function to isolate the top 5 most statistically significant economic drivers of housing prices.
+   * *Benefit:* Reduced computational noise and improved model efficiency.
+3. **Model Training:** * Implemented an 80/20 Train-Test split.
+   * Deployed a `RandomForestRegressor` (100 estimators) to handle non-linear relationships in the economic data effectively.
+4. **Evaluation & Visualization:** * Evaluated predictive performance using **Mean Absolute Error (MAE)** and the **R-squared ($R^2$) variance score**.
+   * Generated a scatter plot mapping Actual vs. Predicted prices alongside a line of perfect prediction to visually confirm model accuracy.
+
+## 📈 Key Insights & Results
+* The model successfully predicts housing prices with a high degree of variance explanation (high $R^2$ score), proving the selected features are strong economic indicators.
+* The scatter plot visualization demonstrates a tight clustering along the line of best fit, confirming the model's reliability on unseen test data.
+
+## 🚀 How to Run the Project
+1. Clone this repository to your local machine.
+2. Ensure you have Python installed along with the required libraries (`pip install pandas numpy scikit-learn matplotlib seaborn`).
+3. Open the `.ipynb` file using Jupyter Notebook or upload it to Google Colab.
+4. Run the cells sequentially to observe the feature selection, model training, and final output visualizations.
+
