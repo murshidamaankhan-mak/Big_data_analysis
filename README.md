@@ -114,7 +114,7 @@ The project follows a structured machine learning pipeline:
 # DASHBOARD DEVELOPMENT(TASK 3)
 
 # 📊 Sales Insights Data Analytics Dashboard
-
+<img width="1338" height="750" alt="Image" src="https://github.com/user-attachments/assets/47e325a3-0acd-4a4e-81e1-5d1d40a8edbc" />
 ## 📌 Project Overview
 This project is an interactive Business Intelligence (BI) dashboard designed to provide comprehensive insights into enterprise sales performance. Developed as **Task 3** for the CodTech IT Solutions internship, this visualization tool empowers stakeholders to track key performance indicators (KPIs), monitor regional growth, and analyze product-level profitability to drive data-informed decision-making.
 
