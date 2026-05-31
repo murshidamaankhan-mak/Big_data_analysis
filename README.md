@@ -112,3 +112,30 @@ The project follows a structured machine learning pipeline:
 <img width="1024" height="512" alt="Image" src="https://github.com/user-attachments/assets/e5ee5d45-80b1-430c-8c2a-882da36b8761" />
 
 # DASHBOARD DEVELOPMENT(TASK 3)
+
+# 📊 Sales Insights Data Analytics Dashboard
+
+## 📌 Project Overview
+This project is an interactive Business Intelligence (BI) dashboard designed to provide comprehensive insights into enterprise sales performance. Developed as **Task 3** for the CodTech IT Solutions internship, this visualization tool empowers stakeholders to track key performance indicators (KPIs), monitor regional growth, and analyze product-level profitability to drive data-informed decision-making.
+
+## 🎯 Task Description
+The objective of this task was to design and develop a dynamic data visualization dashboard that transforms raw sales data into actionable business intelligence. The deliverable requires calculating high-level KPIs, analyzing time-series revenue trends, and comparing actual performance against target metrics using modern BI tools. 
+
+## 📈 Key Metrics & Visualizations Developed
+The dashboard is designed for high-level executive scanning and deep-dive analysis, featuring:
+
+* **Executive KPI Banners:** Real-time tracking of Total Quantity (55K), Total Revenue ($14.91M), Total Profit ($5.24M), Total Orders (10K), and Average Order Value ($1.49K).
+* **Regional Performance (YoY):** A horizontal bar graph detailing Year-over-Year Growth percentages across Central, East, South, North, and West regions.
+* **Time-Series Trend Analysis:** A line chart visualizing Total Revenue by Month to easily identify seasonal sales patterns and revenue dips/spikes.
+* **Product Profitability Matrix:** A granular breakdown of Profit Margin % by individual product lines (Electronics), allowing for quick identification of high and low-margin items.
+* **Target vs. Actual Tracking:** A comparative column chart measuring current Total Revenue against predefined Target Sales goals.
+
+## 🛠️ Tools & Technologies
+* **Data Visualization:** Power BI
+* **Data Processing:** DAX (Data Analysis Expressions) for creating custom measures and KPI calculations.
+* **Techniques:** Data modeling, UI/UX dashboard design, and time-intelligence reporting.
+
+## 💡 Key Business Insights
+1. **Revenue vs. Target:** The company successfully generated $14.91M in revenue, significantly outperforming the initial target sales benchmark.
+2. **Regional Growth:** The Central and East regions are leading the company in Year-over-Year growth, indicating strong market penetration in those areas.
+3. **Consistent Margins:** The electronics product line maintains a highly consistent profit margin, averaging 35% across the board.
